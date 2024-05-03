@@ -4,30 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dac49a0d-befe-4373-b41d-2828ba74346e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Numpy-Exercises.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise9.py" afterDir="false" />
+    <list default="true" id="dac49a0d-befe-4373-b41d-2828ba74346e" name="Changes" comment="Numpy exercises Intelligent Systems">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Maximiliano-alt"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Maximiliano-alt/Intelligent-Systems.git",
+    "accountId": "d7db08cb-cfd9-4d59-9fc7-34fc0bbdad14"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -159,12 +149,73 @@
       <workItem from="1712826704849" duration="337000" />
       <workItem from="1712827236725" duration="23253000" />
       <workItem from="1713470933468" duration="20134000" />
-      <workItem from="1714639965673" duration="25018000" />
+      <workItem from="1714639965673" duration="26127000" />
     </task>
+    <task id="LOCAL-00001" summary="Numpy exercises Intelligent Systems">
+      <option name="closed" value="true" />
+      <created>1714745636169</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714745636169</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Numpy exercises Intelligent Systems" />
+    <option name="LAST_COMMIT_MESSAGE" value="Numpy exercises Intelligent Systems" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Numpy_Exercises$exercise10.coverage" NAME="exercise10 Coverage Results" MODIFIED="1714676839657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
